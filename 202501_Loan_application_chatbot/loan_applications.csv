@@ -1,0 +1,4 @@
+application_id;application_status;rules
+1;approved;
+2;declined;"Applicant UC score greater than risk cut-off; Affordability < 0"
+3;declined;Missing last year income
