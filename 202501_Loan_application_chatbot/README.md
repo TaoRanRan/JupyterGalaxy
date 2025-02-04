@@ -9,4 +9,4 @@ This repository contains a chatbot designed to handle loan application queries u
 - 🛠 **Customizable Responses:** Easily adaptable to different products and policies.
 
 ## 📖 Read the Story Here: 
-[Smarter Support: A Simple Q&A Customer Service Chatbot]([https://openai.com](https://medium.com/@t40r417/smarter-support-a-simple-q-a-customer-service-chatbot-0f759add42a9))
+[Smarter Support: A Simple Q&A Customer Service Chatbot](https://medium.com/@t40r417/smarter-support-a-simple-q-a-customer-service-chatbot-0f759add42a9)
