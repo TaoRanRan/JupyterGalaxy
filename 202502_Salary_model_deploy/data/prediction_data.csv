@@ -1,0 +1,389 @@
+work_year,experience_level,employment_type,job_title,salary_currency,employee_residence,remote_ratio,company_location,company_size
+2023,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Intermediate,FT,Business Data Analyst,USD,United States,50,United States,L
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2021,Intermediate,FT,Data Science Lead,USD,United States,100,United States,M
+2021,Entry,FT,Computer Vision Software Engineer,USD,United States,100,United States,M
+2022,Intermediate,FT,Analytics Engineer,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Manager,USD,United States,0,United States,M
+2020,Intermediate,FT,Data Engineer,EUR,Austria,50,Austria,L
+2023,Intermediate,FT,Machine Learning Research Engineer,GBP,United Kingdom,0,United Kingdom,L
+2023,Executive,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Machine Learning Scientist,USD,United States,100,United States,M
+2021,Intermediate,FT,Data Scientist,USD,United States,50,United States,L
+2022,Intermediate,FT,Data Scientist,USD,United States,100,United States,M
+2021,Entry,FT,Data Engineer,GBP,United Kingdom,50,United Kingdom,L
+2023,Intermediate,FT,ETL Engineer,GBP,United Kingdom,100,United Kingdom,M
+2022,Senior,FT,Data Architect,USD,United States,100,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,BI Analyst,USD,United States,0,United States,M
+2023,Intermediate,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2022,Senior,FT,3D Computer Vision Researcher,USD,Canada,50,Albania,S
+2021,Entry,FT,Power BI Developer,INR,India,50,India,L
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2021,Senior,FT,Data Analytics Engineer,USD,Viet Nam,100,United Kingdom,M
+2023,Senior,FT,Analytics Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Research Scientist,USD,Spain,0,Spain,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,L
+2023,Intermediate,FT,Data Analyst,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2022,Entry,FT,Data Science Consultant,EUR,Spain,50,Spain,L
+2021,Senior,FT,Lead Data Scientist,INR,India,50,India,L
+2023,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Science Manager,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Intermediate,FT,Machine Learning Engineer,GBP,United Kingdom,100,United Kingdom,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2021,Senior,FT,Data Science Engineer,CAD,Canada,50,Canada,L
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Research Engineer,USD,United States,0,United States,M
+2021,Intermediate,FT,Data Engineer,USD,United States,100,United States,L
+2023,Senior,FT,Applied Scientist,USD,United States,0,United States,L
+2020,Entry,FT,Machine Learning Engineer,USD,United States,50,United States,L
+2023,Senior,FT,Analytics Engineer,USD,United States,0,United States,M
+2021,Intermediate,FT,Data Scientist,EUR,Germany,50,Austria,M
+2023,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2022,Senior,FT,Data Analyst,USD,Canada,100,Canada,M
+2022,Entry,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Science Manager,USD,United States,0,United States,M
+2022,Intermediate,FT,Data Scientist,GBP,United Kingdom,0,United Kingdom,M
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Software Engineer,USD,Canada,100,Canada,M
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,S
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2021,Intermediate,FT,ML Engineer,JPY,Japan,50,Japan,S
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,L
+2022,Intermediate,FT,Machine Learning Scientist,USD,United States,100,United States,L
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Entry,FT,Applied Machine Learning Scientist,EUR,Germany,50,Germany,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,L
+2020,Senior,FT,Data Engineer,EUR,Greece,50,Greece,L
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Intermediate,FT,Machine Learning Scientist,USD,United States,0,United States,M
+2023,Intermediate,FT,ML Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2021,Intermediate,FT,Data Scientist,GBP,United Kingdom,50,United Kingdom,L
+2023,Senior,FT,Data Manager,GBP,United Kingdom,0,United Kingdom,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Data Architect,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2023,Intermediate,FT,Machine Learning Engineer,GBP,United Kingdom,0,United Kingdom,M
+2023,Entry,FT,Data Analyst,CAD,Canada,0,Canada,L
+2023,Entry,FT,Business Data Analyst,EUR,Spain,0,Spain,M
+2023,Senior,FT,Business Intelligence Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2021,Executive,FT,Director of Data Science,EUR,Italy,100,Poland,L
+2022,Entry,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Manager,USD,United States,100,United States,M
+2023,Entry,FT,Data Scientist,USD,United States,100,United States,M
+2022,Intermediate,FT,Lead Data Scientist,GBP,United Kingdom,50,United Kingdom,S
+2022,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2021,Senior,FT,Data Science Manager,USD,United States,100,United States,L
+2023,Intermediate,FT,Research Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Applied Scientist,USD,United States,0,United States,L
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Entry,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Analytics Engineer,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Analytics Manager,USD,United States,0,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2021,Intermediate,PT,Data Engineer,EUR,Netherlands,100,Netherlands,L
+2020,Intermediate,FT,Product Data Analyst,USD,Honduras,0,Honduras,S
+2023,Senior,FT,Data Architect,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Engineer,USD,Spain,100,Spain,M
+2021,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Research Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Applied Scientist,USD,United States,100,United States,M
+2023,Intermediate,FT,Machine Learning Scientist,USD,United States,0,United States,S
+2022,Entry,PT,Data Analyst,USD,China,50,United States,S
+2023,Senior,FT,Research Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Scientist,GBP,United Kingdom,100,United Kingdom,M
+2022,Senior,FT,Data Architect,USD,United States,0,United States,M
+2023,Senior,FT,Data Science Lead,USD,United States,0,United States,M
+2023,Senior,FT,Applied Machine Learning Scientist,USD,United States,100,United States,L
+2020,Senior,FT,Data Engineer,USD,United States,100,United States,L
+2022,Intermediate,FT,Analytics Engineer,USD,Brazil,100,Brazil,M
+2022,Senior,FT,Data Architect,USD,United States,100,United States,M
+2023,Entry,FT,AI Developer,EUR,Germany,100,Germany,L
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Intermediate,FT,Financial Data Analyst,USD,United States,100,United States,L
+2022,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Applied Scientist,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2021,Senior,FT,Data Analytics Manager,USD,United States,0,United States,L
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Intermediate,FT,Data Scientist,INR,India,100,India,L
+2022,Senior,FT,ETL Developer,USD,United States,100,United States,M
+2022,Entry,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2022,Senior,FT,Data Science Manager,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2022,Intermediate,FT,Data Scientist,EUR,Germany,100,Germany,S
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,GBP,United Kingdom,0,United Kingdom,M
+2023,Senior,FT,Data Scientist,EUR,Latvia,0,Latvia,M
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2020,Intermediate,FT,Machine Learning Infrastructure Engineer,EUR,Portugal,0,Portugal,M
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Science Consultant,THB,Thailand,50,Thailand,M
+2023,Intermediate,FT,Machine Learning Engineer,USD,Mexico,100,Mexico,S
+2023,Intermediate,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2020,Intermediate,FT,Business Data Analyst,USD,United States,0,United States,M
+2022,Executive,FT,Lead Data Engineer,CAD,Canada,100,Canada,S
+2022,Senior,FT,Machine Learning Software Engineer,USD,Canada,100,Canada,M
+2022,Senior,FT,Machine Learning Software Engineer,USD,Canada,100,Canada,M
+2023,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Analytics Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,Canada,0,Canada,M
+2022,Senior,FT,ML Engineer,USD,United States,100,United States,M
+2023,Intermediate,FT,Machine Learning Engineer,GBP,United Kingdom,100,United Kingdom,M
+2023,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Science Consultant,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Architect,USD,United States,100,United States,M
+2022,Entry,FT,Machine Learning Engineer,USD,United Kingdom,100,United Kingdom,L
+2023,Senior,FT,Data Strategist,USD,Canada,0,Canada,M
+2023,Entry,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,BI Developer,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Research Engineer,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Research Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Entry,FT,Data Analyst,USD,United States,0,United States,M
+2021,Entry,FT,Data Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Science Lead,USD,United States,0,United States,M
+2022,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2021,Senior,FT,Data Engineer,GBP,United Kingdom,50,United Kingdom,L
+2022,Entry,FT,Computer Vision Engineer,USD,Portugal,100,Luxembourg,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Research Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2021,Intermediate,FT,Data Engineer,AUD,Australia,50,Australia,L
+2022,Intermediate,FT,Machine Learning Engineer,GBP,United Kingdom,0,United Kingdom,M
+2021,Executive,FT,Head of Data,USD,Russian Federation,50,Russian Federation,L
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2021,Senior,FT,Data Scientist,INR,India,100,India,L
+2022,Senior,FT,Machine Learning Infrastructure Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2021,Intermediate,FT,Cloud Data Engineer,SGD,Singapore,50,Singapore,L
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Intermediate,FT,Lead Data Analyst,INR,India,50,India,L
+2022,Senior,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2023,Intermediate,FT,Machine Learning Engineer,EUR,Netherlands,100,Netherlands,L
+2023,Intermediate,FT,Data Analyst,USD,Canada,100,Canada,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2021,Entry,FT,Data Engineer,USD,United States,100,United States,L
+2021,Senior,FT,Data Analyst,EUR,Germany,50,Germany,L
+2023,Entry,FT,Data Engineer,USD,United States,0,United States,M
+2022,Intermediate,PT,Data Engineer,EUR,Germany,50,Germany,L
+2023,Senior,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Architect,USD,United States,100,United States,L
+2021,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Executive,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2021,Intermediate,FL,Autonomous Vehicle Technician,USD,American Samoa,50,Bahamas,M
+2021,Intermediate,FT,Head of Data Science,USD,United States,0,United States,S
+2021,Intermediate,FT,Data Analytics Engineer,USD,United States,100,United States,L
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Entry,FT,Data Analyst,USD,United States,100,United States,L
+2023,Senior,FT,Applied Scientist,USD,United States,0,United States,L
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,L
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Executive,FT,Data Scientist,USD,United States,0,United States,M
+2022,Intermediate,FT,Data Engineer,GBP,United Kingdom,0,United Kingdom,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Science Consultant,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Executive,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2022,Entry,FT,BI Data Analyst,USD,United States,100,United States,L
+2022,Entry,FT,Data Scientist,USD,United States,100,United States,M
+2023,Senior,FT,Data Quality Analyst,USD,United States,0,United States,M
+2022,Intermediate,FT,Applied Machine Learning Scientist,USD,United States,50,United States,M
+2022,Entry,FT,Data Engineer,USD,United States,0,United States,M
+2021,Senior,FT,Machine Learning Infrastructure Engineer,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Scientist,USD,United States,50,United States,L
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Entry,FT,Data Engineer,USD,Viet Nam,0,Viet Nam,L
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,L
+2023,Intermediate,FT,Data Manager,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Data Scientist,USD,United Kingdom,0,United Kingdom,M
+2023,Intermediate,FT,AI Developer,SGD,Finland,0,Finland,M
+2023,Executive,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Strategist,USD,Canada,0,Canada,M
+2023,Intermediate,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Science Consultant,USD,United States,0,United States,M
+2023,Senior,FT,Data Science Manager,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Scientist,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2021,Entry,FT,Data Scientist,USD,United States,50,United States,L
+2023,Senior,FT,Data Architect,USD,United States,100,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,Spain,100,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2021,Intermediate,FT,Data Engineer,GBP,United Kingdom,100,United Kingdom,L
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Data Management Specialist,EUR,Italy,0,Italy,L
+2023,Entry,FT,Data Analyst,USD,United States,100,United States,M
+2023,Senior,FT,Data Scientist,USD,Ireland,0,Ireland,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Entry,FT,Data Engineer,USD,United States,100,United States,M
+2023,Executive,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Entry,FT,Data Analyst,USD,United States,100,United States,M
+2023,Senior,FT,Machine Learning Software Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Engineer,GBP,United Kingdom,100,United Kingdom,M
+2023,Senior,FT,Applied Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,L
+2023,Senior,FT,Head of Data,EUR,Portugal,100,Portugal,L
+2023,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2021,Intermediate,FT,Data Engineer,USD,United States,100,United States,L
+2023,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Analytics Engineer,USD,United States,0,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,L
+2022,Senior,FT,Analytics Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2021,Intermediate,PT,3D Computer Vision Researcher,INR,India,50,India,M
+2023,Senior,FT,Machine Learning Engineer,USD,United States,0,United States,M
+2021,Intermediate,FT,Data Engineer,EUR,Romania,0,United States,L
+2022,Intermediate,FT,Applied Machine Learning Scientist,USD,"Bolivia, Plurinational State of",100,United States,M
+2021,Intermediate,FT,Data Scientist,INR,India,100,India,S
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Engineer,GBP,United Kingdom,100,United Kingdom,L
+2020,Intermediate,FT,Data Scientist,EUR,Spain,100,Spain,M
+2022,Intermediate,FT,Analytics Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Applied Scientist,USD,United States,0,United States,L
+2023,Intermediate,FT,Machine Learning Engineer,USD,United States,50,United States,L
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Analytics Manager,USD,United States,100,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Intermediate,FT,Machine Learning Developer,CAD,Canada,100,Canada,M
+2023,Intermediate,FT,Research Scientist,GBP,United Kingdom,0,United Kingdom,M
+2022,Intermediate,FT,Data Scientist,USD,Türkiye,50,Türkiye,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Engineer,USD,United States,100,United States,M
+2023,Executive,FT,Data Engineer,USD,United States,0,United States,M
+2022,Entry,FT,Data Scientist,HUF,Hungary,100,Hungary,M
+2022,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Engineer,GBP,United Kingdom,100,United Kingdom,M
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Applied Scientist,USD,United States,100,United States,M
+2022,Senior,FT,Data Analyst,GBP,United Kingdom,0,United Kingdom,M
+2022,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2023,Intermediate,FT,Machine Learning Engineer,GBP,United Kingdom,0,United Kingdom,M
+2022,Intermediate,CT,NLP Engineer,USD,India,100,United States,S
+2022,Senior,FT,Data Scientist,USD,United States,0,United States,L
+2023,Senior,FT,Data Analyst,USD,United States,100,United States,M
+2021,Senior,CT,Staff Data Scientist,USD,United States,100,United States,M
+2021,Senior,FT,Data Analyst,USD,United States,100,United States,S
+2022,Intermediate,FT,ETL Developer,EUR,Greece,0,Greece,M
+2022,Senior,FT,Data Operations Engineer,USD,United States,0,United States,M
+2021,Intermediate,FL,Data Engineer,USD,Italy,0,United States,L
+2022,Senior,FT,Data Scientist,USD,United States,100,United States,M
+2023,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,M
+2022,Intermediate,FT,Data Science Manager,USD,United States,100,United States,M
+2022,Senior,FT,Data Architect,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Analyst,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Intermediate,FT,Data Engineer,USD,United States,0,United States,M
+2023,Intermediate,FT,Data Analyst,USD,United States,100,United States,M
+2022,Intermediate,FL,Applied Machine Learning Scientist,INR,India,100,India,S
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2023,Senior,FT,Data Scientist,USD,United States,0,United States,M
+2022,Intermediate,FT,Analytics Engineer,GBP,United Kingdom,0,United Kingdom,M
+2022,Intermediate,FT,Research Scientist,USD,India,100,India,L
+2022,Senior,FT,Applied Scientist,USD,United States,100,United States,M
+2020,Entry,FT,AI Scientist,DKK,Denmark,50,Denmark,S
+2022,Intermediate,FT,Data Analyst,GBP,United Kingdom,0,United Kingdom,M
+2022,Intermediate,FT,AI Scientist,USD,India,100,United States,L
+2022,Intermediate,FT,AI Scientist,USD,United States,100,United States,M
+2022,Entry,FT,Data Engineer,USD,United States,100,United States,M
+2022,Entry,FT,Data Engineer,USD,United States,100,United States,L
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,Data Analytics Manager,USD,United States,0,United States,M
+2023,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2022,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Data Engineer,USD,United States,100,United States,M
+2023,Senior,FT,ML Engineer,USD,Canada,100,Canada,M
+2023,Intermediate,FT,Data Analyst,USD,United States,100,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Entry,FT,Machine Learning Engineer,USD,United States,50,United States,L
+2022,Senior,FT,Data Engineer,USD,United States,0,United States,M
+2023,Senior,FT,Data Analyst,USD,United States,0,United States,M
+2022,Senior,FT,Machine Learning Engineer,USD,United States,100,United States,L
