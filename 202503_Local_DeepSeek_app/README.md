@@ -1,12 +1,12 @@
 # Local LLM Streamlit App for Transaction Analysis  
 
-A **Streamlit app** that processes invoices, generates reports, and provides Q&A assistance — powered by local AI, with a little cloud help for the heavy lifting.
+A Streamlit app that processes invoices, generates reports, and provides Q&A assistance — powered by local AI, with a little cloud help for the heavy lifting.
 
 ## 🛠 Features  
-✅ **Upload a document like a credit card invoice (PDF)**  
-✅ **Extract and analyze transactions**  using a cloud-based LLM (can also be done locally if hardware allows)
-✅ **Generate reports with tables & graphs**  
-✅ **Ask questions about your transactions** using a local LLM  
+- **Upload a document** for example a credit card invoice (PDF) 
+- **Extract and analyze transactions** using a cloud-based LLM (can also be done locally if hardware allows)
+- **Generate reports** with tables & graphs
+- **Ask questions about your transactions** using a local LLM  
 
 ## ⚙️ Tech Stack  
 - **LLM:** DeepSeek-R1
