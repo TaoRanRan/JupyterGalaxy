@@ -16,10 +16,10 @@ A **Streamlit app** that processes invoices, generates reports, and provides Q&A
 - **Cloud Processing:** NVIDIA NIM
 - **Local Processing:** Ollama
 
-## 💻 To start the Streamlit app, open a terminal and run:  
-
+## 💻 To start the Streamlit app, open a terminal and run: 
 ```bash
 streamlit run deepseek_streamlit_app.py
+```
 
-## 📖 Read the Story Here On Medium
+## 📖 Read the Full Story on Medium
 [**Build an LLM App with Local DeepSeek – No Budget, Just a Laptop**](https://medium.com/@t40r417/build-an-llm-app-with-local-deepseek-no-budget-just-a-laptop-973478a93903)  
