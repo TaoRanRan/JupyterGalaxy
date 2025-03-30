@@ -1,15 +1,25 @@
-# Jupter Galaxy 🎢  
+# Local LLM Streamlit App for Transaction Analysis  
 
-Welcome to my **Data Science lab**, where I experiment, explore, and occasionally break things (for data science).  
+A Streamlit app that processes invoices, generates reports, and provides Q&A assistance — powered by local AI, with a little cloud help for the heavy lifting.
 
-This repo is a collection of my ongoing projects, covering things like **machine learning** **AI** or **random deep dives into weird stuff**. 
+## 🛠 Features  
+- **Upload a document** for example a credit card invoice (PDF) 
+- **Extract and analyze transactions** using a cloud-based LLM (can also be done locally if hardware allows)
+- **Generate reports** with tables & graphs
+- **Ask questions about your transactions** using a local LLM  
 
-## 🛠 How to Use This Repo  
-Clone it, explore it, break it, improve it! 
-   ```sh
-   git clone https://github.com/TaoRanRan/JupyterGalaxy.git
-   ```
-📢 If you find something cool (or hilarious), feel free to open an issue or contribute!
+## ⚙️ Tech Stack  
+- **LLM:** DeepSeek-R1
+- **Vector DB:** FAISS (by Meta AI)  
+- **Embeddings:** Hugging Face  
+- **App Framework:** Streamlit  
+- **Cloud Processing:** NVIDIA NIM
+- **Local Processing:** Ollama
 
-## 📌 Notes & Warnings
-This is a experimental work-in-progress repo. Expect unfinished code, half-baked ideas, and simple datasets maybe. 
+## 💻 To start the Streamlit app, open a terminal and run: 
+```bash
+streamlit run deepseek_streamlit_app.py
+```
+
+## 📖 Read the Full Story on Medium
+[**Build an LLM App with Local DeepSeek – No Budget, Just a Laptop**](https://medium.com/@t40r417/build-an-llm-app-with-local-deepseek-no-budget-just-a-laptop-973478a93903)  
