@@ -1,0 +1,5 @@
+python_version >= 3.9
+pdfplumber==0.11.6
+typing==3.7.4.3
+langgraph==0.3.31
+ollama==0.4.8
