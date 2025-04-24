@@ -15,6 +15,4 @@ This project transforms grocery store flyers into budget-friendly **3-day meal p
 
 
 ## 📖 Read the Full Story on Medium
-[**From Grocery Flyers to Plate: Cooking Up Meal Plans with LLM Agents using LangGraph**](https://medium.com/@t40r417/build-an-llm-app-with-local-deepseek-no-budget-just-a-laptop-973478a93903)  
-
-
+[**From Grocery Flyers to Plate: Cooking Up Meal Plans with LLM Agents using LangGraph**](https://medium.com/@t40r417/from-grocery-flyers-to-plate-cooking-up-meal-plans-with-llm-agents-using-langgraph-c24a31df4664)  
