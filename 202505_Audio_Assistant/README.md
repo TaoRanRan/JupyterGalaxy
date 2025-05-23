@@ -26,5 +26,5 @@ This is a **Streamlit-based application** that allows users to upload audio (e.g
 ---
 
 ## 📖 Read the Full Story on Medium
-`Ask Your Audio: An AI That Listens, Thinks, and Talks Back` (https://medium.com/towards-artificial-intelligence/ask-your-audio-an-ai-that-listens-thinks-and-talks-back-0e2b206c3901)
+Ask Your Audio: An AI That Listens, Thinks, and Talks Back (https://medium.com/towards-artificial-intelligence/ask-your-audio-an-ai-that-listens-thinks-and-talks-back-0e2b206c3901)
 
