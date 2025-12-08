@@ -1,0 +1,7 @@
+python=3.12.11
+pip=25.2
+numpy=2.3.3
+pandas=2.3.2
+scikit-learn=1.7.2
+kagglehub=0.3.13
+ollama=0.6.0
