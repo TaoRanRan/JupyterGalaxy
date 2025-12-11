@@ -15,5 +15,5 @@ This project uses a local LLM (Ollama) to automate feature engineering, aiming t
 - Improving features are kept, and the process repeats.
 
 ## 📖 Read the Full Story on Medium
-[**ML Feature Engineering, Automated: The LLM Pipeline That Iterates for You**](https://medium.com/@t40r417/from-grocery-flyers-to-plate-cooking-up-meal-plans-with-llm-agents-using-langgraph-c24a31df4664)  
+[**ML Feature Engineering, Automated: The LLM Pipeline That Iterates for You**](https://medium.com/ai-advances/ml-feature-engineering-automated-the-llm-pipeline-that-iterates-for-you-064baf97fd8a)  
 
