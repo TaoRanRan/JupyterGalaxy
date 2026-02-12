@@ -1,7 +1,9 @@
 import requests
 import logging
 import os
+from dotenv import load_dotenv
 
+load_dotenv()
 logger = logging.getLogger(__name__)
 
 def notify_teams() -> bool:
@@ -30,4 +32,5 @@ def notify_teams() -> bool:
         return False
     except requests.exceptions.HTTPError as e:
         logger.error(f"HTTP error: {e}")
+
         return False
