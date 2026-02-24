@@ -23,3 +23,6 @@ Check `test.py` for a working example that waits 5 seconds then pings Teams.
 
 ---
 
+## 📖 Read the Full Story on Medium
+[**Stop Babysitting Your Notebooks: How I Taught VS Code to Ping Me on Teams**](https://medium.com/@t40r417/stop-babysitting-your-notebooks-how-i-taught-vs-code-to-ping-me-on-teams-e11e40a7c14f
+)
