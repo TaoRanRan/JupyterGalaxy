@@ -108,5 +108,8 @@ Great work today!
 ---
 
 ## 📖 Read the Full Story on Medium
+[**From Passive Watching to Active Learning: Building a free AI Tutor with YouTube**](https://medium.com/ai-advances/ml-feature-engineering-automated-the-llm-pipeline-that-iterates-for-you-064baf97fd8a](https://medium.com/towards-artificial-intelligence/from-passive-watching-to-active-learning-building-a-free-ai-tutor-with-youtube-b03bf65821f9
+)
+
 
 
